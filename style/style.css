@@ -7,7 +7,5 @@ img{display: block; max-width: 100%;}
     justify-content: center;
     max-width: 700px;
     margin: 0 auto;
-    background-color: red;
-    
 }
 .page img{width: 100%;}
